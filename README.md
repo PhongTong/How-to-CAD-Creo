@@ -60,6 +60,24 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%201) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%201/Toy%20Xylophone.png" width="500"> 
+
+**Figure:** _A Toy Xylophone_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%201/Pan%20Flute.png" width="500"> 
+
+**Figure:** _A Pan Flute_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%201/Gong.png" width="500"> 
+
+**Figure:** _A Gong_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
