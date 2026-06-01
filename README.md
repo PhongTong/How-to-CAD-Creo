@@ -55,7 +55,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A [Gong](https://gongs-unlimited.com/cdn/shop/files/EternalPresent_ChocDrop_L.jpg?v=1758049219) (a percussion instrument).
   
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/aILsxSgESw0.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%201) folder.
