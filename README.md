@@ -239,4 +239,4 @@ To be posted.
 
 ## Enrollment Statistics
 
-To be posted.
+How to CAD Almost Anything: MIT Summer 2026 saw a total of 69 students enrolled, hailing from: Course 1 (1.5%) | 2 (21.7%) | 3 (1.5%) | 4 (1.5%) | 6 (36.2%) | 8 (5.8%) | 9 (1.5%) | 10 (1.5%) | 15 (5.8%) | 16 (8.7%) | 18 (1.5%) | 20 (1.5%) | 22 (2.9%) | HST (1.5%)| IDSS (1.5%) | TPP (1.5%) and Community Members (4.4%).
