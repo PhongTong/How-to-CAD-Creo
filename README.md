@@ -102,6 +102,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ([ back to top ](#back_to_top))
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%202/Ukelele.png" width="500"> 
+
+**Figure:** _An Ukelele_.
+</p>
+
 ---
 <a name="S3"></a>
 ### Session 3: Advanced extrudes and splines.
