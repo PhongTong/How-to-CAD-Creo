@@ -91,7 +91,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Activity:** Using the tools learned on Session 2, we’ll design three instruments, namely:
 * An [Ukelele](https://m.media-amazon.com/images/I/61dcGthERLL._AC_UF1000,1000_QL80_.jpg).
-* An electric [Guitar](https://www.yamaha.com/en/musical_instrument_guide/common/images/electric_guitar/parts_viewer01.jpg).
+* An Electric [Guitar](https://www.yamaha.com/en/musical_instrument_guide/common/images/electric_guitar/parts_viewer01.jpg).
 * A [Morin Khuur](https://upload.wikimedia.org/wikipedia/commons/9/95/Morin_Khuur%2C_Today%27s_North_Mongolian_Style.jpg) (a Mongolian violin).
 
 **Session Recordings:** 
@@ -106,6 +106,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%202/Ukelele.png" width="500"> 
 
 **Figure:** _An Ukelele_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%202/Electric%20Guitar.png" width="500"> 
+
+**Figure:** _An Electric Guitar_.
 </p>
 
 ---
