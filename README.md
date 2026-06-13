@@ -141,7 +141,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A [Pipa](https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_15/6fbd0aeb_e71c_49a2_91a6_a3de0106d5ca/mid_01445347_001.jpg) (a Chinese lute).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/ItKJFbYNruQ.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%203) folder.
