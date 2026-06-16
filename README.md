@@ -185,6 +185,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%204/Banjo.png" width="500"> 
+
+**Figure:** _A 4-string Banjo_.
+</p>
+
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%204) folder.
 ([ back to top ](#back_to_top))
 
