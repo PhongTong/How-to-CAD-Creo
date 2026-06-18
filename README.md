@@ -171,7 +171,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 4: Symmetry, patterns and plane creation.
 (Wednesday, June 24)
 
-**Objective:** In this session, we’ll focus our attention to symmetry, patterns and planes, and how we can leverage certain tools to simplify the design process. Session 4’s goals include: 
+**Objective:** In this session, we’ll direct our attention to symmetry, patterns and planes, and how we can leverage certain tools to simplify the design process. Session 4’s goals include: 
 * Understanding how to create a sketch for a revolve.
 * Learning how to make use of the mirroring and circular patterns tools, both as a sketch and as a feature.
 * Learning how to create planes, at different angles.
@@ -182,7 +182,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A set of wooden [Bongos](https://drumcenternh.com/cdn/shop/products/CP221AW_hqw_1_1.jpg?v=1702666546).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/WFnKymmcJWU.
 * In-person: To be posted.
 
 <p align="left">
