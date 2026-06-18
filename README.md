@@ -186,9 +186,21 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * In-person: To be posted.
 
 <p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%204/Maracas.png" width="500"> 
+
+**Figure:** _A Maraca_.
+</p>
+
+<p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%204/Banjo.png" width="500"> 
 
 **Figure:** _A 4-string Banjo_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%204/Bongos.png" width="500"> 
+
+**Figure:** _A set of wooden Bongos_.
 </p>
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%204) folder.
