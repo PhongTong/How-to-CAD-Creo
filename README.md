@@ -185,6 +185,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: https://youtu.be/WFnKymmcJWU.
 * In-person: To be posted.
 
+**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%204) folder.
+
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%204/Maracas.png" width="500"> 
 
@@ -203,7 +205,6 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A set of wooden Bongos_.
 </p>
 
-**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%204) folder.
 ([ back to top ](#back_to_top))
 
 ---
@@ -224,6 +225,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%205) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%205/Natural%20Horn.png" width="500"> 
+
+**Figure:** _A natural Horn_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%205/Trombone.png" width="500"> 
+
+**Figure:** _A classic Trombone_.
+</p>
 
 ([ back to top ](#back_to_top))
 
