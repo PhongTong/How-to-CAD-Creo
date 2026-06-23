@@ -221,7 +221,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A classic [Trombone](https://upload.wikimedia.org/wikipedia/commons/f/f2/Yamaha_Tenor_trombone_YSL-891Z_%28re-crop%29.jpg).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/RaFCPJVkgIk.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%205) folder.
