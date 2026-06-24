@@ -205,6 +205,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A set of wooden Bongos_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%204/Music%20Stand.png" width="500"> 
+
+**Figure:** _BONUS (In-person Session 4): A music stand_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%204/Hulusi.png" width="500"> 
+
+**Figure:** _BONUS (In-person Session 4): A simplified Hulusi, a traditional Chinese flute_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
