@@ -271,6 +271,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%206) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%206/Accordion.png" width="500"> 
+
+**Figure:** _An Accordion_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%206/Harp.png" width="500"> 
+
+**Figure:** _A 26-string Harp_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
