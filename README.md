@@ -259,14 +259,13 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Objective:** In this session, we’ll revise the contents learned during Session 4 and Session 5. Session 6’s goals include: 
 * Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties.
-* Learning how to employ the emboss command (for engravings).
 
 **Session Activity:** Using the tools learned on Session 6, we’ll design two instruments, namely:
 * An [Accordion](https://cdn.britannica.com/34/150934-050-AB388AF8/Piano-accordion.jpg).
 * A 26-string [Harp](https://images.squarespace-cdn.com/content/v1/5a04b91b914e6b6222be0e26/29f52df2-d258-4739-bcca-09d4537bfd3b/Stoney-End-Even-Song-26-Lever-Harp-Gothic-Collection.jpg).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/96I61oaYJ_c.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%206) folder.
