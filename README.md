@@ -310,6 +310,54 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%207) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Cymbal%20Stand.png" width="500"> 
+
+**Figure:** _A Cymbal stand_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Cymbal%20Stand%20Exploded.png" width="500"> 
+
+**Figure:** _A Cymbal stand (exploded view)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Bell%20Kit%20Stand.png" width="500"> 
+
+**Figure:** _A Bell Kit stand_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Bell%20Kit%20Stand%20Exploded.png" width="500"> 
+
+**Figure:** _A Bell Kit stand (exploded view)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Cymbal%20Drawing%201.png" width="500"> 
+
+**Figure:** _Cymbal stand engineering drawing - bill of materials_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Cymbal%20Drawing%202.png" width="500"> 
+
+**Figure:** _Cymbal stand engineering drawing - overall dimensions_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Bell%20Kit%20Drawing%201.png" width="500"> 
+
+**Figure:** _Bell Kit stand engineering drawing - bill of materials_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Bell%20Kit%20Drawing%202.png" width="500"> 
+
+**Figure:** _Bell Kit stand engineering drawing - overall dimensions_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
