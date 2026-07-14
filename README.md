@@ -298,14 +298,14 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Objective:** In this session, we’ll move towards one of the most powerful features within CAD parametric software, which is that of making assemblies! Session 7’s goals include: 
 * Learning how to make an assembly of multiple parts.
 * Learning how to make an exploded view of an assembly.
-* Learning how to create an engineering drawing of a part and assembly (including exploded views).
+* Learning how to create an engineering drawing of an assembly (including exploded views).
 
 **Session Activity:** Using the tools learned on Session 7, we’ll design two instruments, namely:
 * A [Cymbal](https://m.media-amazon.com/images/I/51gusSfg9kL.jpg) stand.
 * A [Bell](https://m.media-amazon.com/images/I/612tOrfhocL._AC_SX679_.jpg) kit with stands.
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/rqb8pByi0c8.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%207) folder.
