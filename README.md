@@ -319,7 +319,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Cymbal%20Stand%20Exploded.png" width="500"> 
 
-**Figure:** _A Cymbal stand (exploded view)_.
+**Figure:** _A Cymbal stand - exploded view_.
 </p>
 
 <p align="left">
@@ -331,7 +331,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%207/Bell%20Kit%20Stand%20Exploded.png" width="500"> 
 
-**Figure:** _A Bell Kit stand (exploded view)_.
+**Figure:** _A Bell Kit stand - exploded view_.
 </p>
 
 <p align="left">
