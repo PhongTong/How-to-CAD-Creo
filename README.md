@@ -366,8 +366,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 (Wednesday, July 29)
 
 **Objective:** In this session, we’ll investigate two often underappreciated yet extremely useful tools, parameters and equations. These tools allow the user to create various configurations of the same model, which can vary in size, shape, and even color! Session 8’s goals include:
-* Learning how to create parameters and equations.
-* Creating configurations of the same model.
+* Learning how to create parameters and relations.
+* Creating configurations/family tables of the same model.
 
 **Session Activity:** Using the tools learned on Session 8, we’ll design two instruments, namely:
 * A vertical (upright) [Piano](https://www.apexpianoshowroom.com/cdn/shop/products/yamaha-p22-upright-piano-dark-oak-price.jpg?v=1707180002&width=1214).
@@ -378,6 +378,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%208) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Piano.png" width="500"> 
+
+**Figure:** _A vertical (upright) Piano_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Piano%20Configurations.png" width="500"> 
+
+**Figure:** _6 configurations of the vertical (upright) Piano_!
+</p>
 
 ([ back to top ](#back_to_top))
 
