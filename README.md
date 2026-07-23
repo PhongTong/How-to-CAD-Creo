@@ -306,7 +306,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** 
 * Asynchronous: https://youtu.be/rqb8pByi0c8.
-* In-person: To be posted.
+* In-person: https://youtu.be/GFbc_0j-4Sc.
 
 **Session Slides and File Parts:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%207) folder.
 
