@@ -391,6 +391,30 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _6 configurations of the vertical (upright) Piano_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Euphonium%20(isometric%20view).png" width="500"> 
+
+**Figure:** _A Euphonium (isometric view)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Euphonium%20(front%20view).png" width="500"> 
+
+**Figure:** _A Euphonium (front view)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Euphonium%20(back%20view).png" width="500"> 
+
+**Figure:** _A Euphonium (back view)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Euphonium%20Configurations.png" width="500"> 
+
+**Figure:** _3 configurations of the Euphonium_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ## Pictures/Hall of Fame
