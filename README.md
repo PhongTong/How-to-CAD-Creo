@@ -377,7 +377,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%208) folder.
+**Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%208) folder. The Euphonium file is very heavy, so it is instead available [here](https://drive.google.com/drive/folders/1lVhCwGt9absLnJmr29mLpDHMdkN-qAIe?usp=sharing).
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Piano.png" width="500"> 
