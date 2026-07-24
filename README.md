@@ -412,7 +412,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Euphonium%20Configurations.png" width="500"> 
 
-**Figure:** _3 configurations of the Euphonium_!
+**Figure:** _A short- and long-neck Euphonium_!
 </p>
 
 ([ back to top ](#back_to_top))
