@@ -375,7 +375,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** 
 * Asynchronous: https://youtu.be/9Jn8TiFYfU0.
-* In-person: To be posted.
+* In-person: https://youtu.be/mN2r5_kz74k.
 
 **Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%208) folder. The Euphonium file is very heavy, so it is instead available [here](https://drive.google.com/drive/folders/1lVhCwGt9absLnJmr29mLpDHMdkN-qAIe?usp=sharing).
 
