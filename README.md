@@ -431,7 +431,13 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 ## Pictures/Hall of Fame
 
-To be posted.
+Here is a picture from the Summer 2026 workshop!
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Mis/Session%207.jpg" width="500"> 
+
+**Figure:** _Memories from in-person Session 7: Previewing students on the project for Session 8_!
+</p>
 
 ([ back to top ](#back_to_top))
 
