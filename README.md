@@ -415,6 +415,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A short- and long-neck Euphonium_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Melodica.png" width="500"> 
+
+**Figure:** _BONUS (In-person Session 8): A Melodica_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%208/Melodica%20Configurations.png" width="500"> 
+
+**Figure:** _BONUS (In-person Session 8): A medium- and long-length Melodica_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ## Pictures/Hall of Fame
