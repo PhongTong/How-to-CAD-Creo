@@ -49,7 +49,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Editing sketches and features after creating them.
 * Coloring parts and changing material properties.
 
-**Session Activity:** Using the tools learned on Session 1, we’ll design three instruments, namely:
+**Session Activities:** Using the tools learned on Session 1, we’ll design three instruments, namely:
 * A toy [Xylophone](https://api.upskillstutor.com/news_image/qh/0o/qh0o0sJarqKAf3F0yPQPnIRpazwoPbZHZdSg6ZO6.png).
 * A [Pan flute](https://www.jamtown.com/cdn/shop/products/W015_20Pan_20Flute_20Lrg_1024x1024.jpeg?v=1387413596).
 * A [Gong](https://gongs-unlimited.com/cdn/shop/files/EternalPresent_ChocDrop_L.jpg?v=1758049219) (a percussion instrument).
@@ -89,7 +89,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to use the spline tool and project entities.
 * Learning how to add a picture and sketch on it.
 
-**Session Activity:** Using the tools learned on Session 2, we’ll design three instruments, namely:
+**Session Activities:** Using the tools learned on Session 2, we’ll design three instruments, namely:
 * An [Ukelele](https://m.media-amazon.com/images/I/61dcGthERLL._AC_UF1000,1000_QL80_.jpg).
 * An Electric [Guitar](https://www.yamaha.com/en/musical_instrument_guide/common/images/electric_guitar/parts_viewer01.jpg).
 * A [Morin Khuur](https://upload.wikimedia.org/wikipedia/commons/9/95/Morin_Khuur%2C_Today%27s_North_Mongolian_Style.jpg) (a Mongolian violin).
@@ -135,7 +135,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Revising some of the previously learned commands, including extrude, fillet, chamfer, sketch picture, and project entities.
 * Continuing to employ the “Master Sketch” technique.
 
-**Session Activity:** Using the tools learned on Session 3, we’ll design three instruments, namely:
+**Session Activities:** Using the tools learned on Session 3, we’ll design three instruments, namely:
 * A [Harmonica](https://m.media-amazon.com/images/I/61PG9+ufG2L._AC_UF894,1000_QL80_.jpg).
 * A traditional [Violin](https://www.playmusic123.com/cdn/shop/products/805232008424.MAIN_1024x1024.jpg?v=1572402535).
 * A [Pipa](https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_15/6fbd0aeb_e71c_49a2_91a6_a3de0106d5ca/mid_01445347_001.jpg) (a Chinese lute).
@@ -176,7 +176,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to make use of the mirroring and circular patterns tools, both as a sketch and as a feature.
 * Learning how to create planes, at different angles.
 
-**Session Activity:** Using the tools learned on Session 4, we’ll design three instruments, namely:
+**Session Activities:** Using the tools learned on Session 4, we’ll design three instruments, namely:
 * A set of [Maracas](https://www.bulkpartysupplies.com/cdn/shop/products/60951-8.jpg?v=1762528605).
 * A 4-string [Banjo](https://kalabrand.com/cdn/shop/files/KA-BNJ-MHG-C_23_R.jpg?v=1688583172).
 * A set of wooden [Bongos](https://drumcenternh.com/cdn/shop/products/CP221AW_hqw_1_1.jpg?v=1702666546).
@@ -228,7 +228,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to use the loft and sweep commands.
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
-**Session Activity:** Using the tools learned on Session 5, we’ll design two instruments, namely:
+**Session Activities:** Using the tools learned on Session 5, we’ll design two instruments, namely:
 * A natural [Horn](https://hampsonhorns.com/wp-content/uploads/2023/01/TabardNaturalHorn1830.webp).
 * A classic [Trombone](https://upload.wikimedia.org/wikipedia/commons/f/f2/Yamaha_Tenor_trombone_YSL-891Z_%28re-crop%29.jpg).
 
@@ -266,7 +266,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Objective:** In this session, we’ll revise the contents learned during Session 4 and Session 5. Session 6’s goals include: 
 * Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties.
 
-**Session Activity:** Using the tools learned on Session 6, we’ll design two instruments, namely:
+**Session Activities:** Using the tools learned on Session 6, we’ll design two instruments, namely:
 * An [Accordion](https://cdn.britannica.com/34/150934-050-AB388AF8/Piano-accordion.jpg).
 * A 26-string [Harp](https://images.squarespace-cdn.com/content/v1/5a04b91b914e6b6222be0e26/29f52df2-d258-4739-bcca-09d4537bfd3b/Stoney-End-Even-Song-26-Lever-Harp-Gothic-Collection.jpg).
 
@@ -300,7 +300,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to make an exploded view of an assembly.
 * Learning how to create an engineering drawing of an assembly (including exploded views).
 
-**Session Activity:** Using the tools learned on Session 7, we’ll design two instruments, namely:
+**Session Activities:** Using the tools learned on Session 7, we’ll design two instruments, namely:
 * A [Cymbal](https://m.media-amazon.com/images/I/51gusSfg9kL.jpg) stand.
 * A [Bell](https://m.media-amazon.com/images/I/612tOrfhocL._AC_SX679_.jpg) kit with stands.
 
@@ -369,7 +369,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to create parameters and relations.
 * Creating configurations/family tables of the same model.
 
-**Session Activity:** Using the tools learned on Session 8, we’ll design two instruments, namely:
+**Session Activities:** Using the tools learned on Session 8, we’ll design two instruments, namely:
 * A vertical (upright) [Piano](https://www.apexpianoshowroom.com/cdn/shop/products/yamaha-p22-upright-piano-dark-oak-price.jpg?v=1707180002&width=1214).
 * A [Euphonium](https://m.media-amazon.com/images/I/81VD0lyUkZL.jpg).
 
